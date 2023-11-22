@@ -22,13 +22,13 @@ No installation is required for the Prework Study Guide. Simply navigate to the 
 The Prework Study Guide is organized into sections covering HTML, CSS, Git, and JavaScript. To get the most out of your study sessions, consider the following tips:
 
 1. **Sequential Learning:** Follow the suggested order of topics for a structured learning experience.
-2. **Interactive Learning:** Open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console panel, find a curated list of topics from the prework, along with recommendations on where to start.
+2. **Interactive Learning:** In the console panel, find a curated list of topics from the prework, along with recommendations on where to start.
 
 Feel free to reach out if you have any questions or need further clarification on any topic.
 
 ## Contributing
 
- If you have insights, additional resources, or improvements we welcome contributions to enhance the Prework Study Guide!
+If you have insights, additional resources, or improvements we welcome contributions to enhance the Prework Study Guide!
 
 ## Credits
 
