@@ -1,5 +1,7 @@
 # Prework Study Guide Webpage
 
+https://mdtoy-dev.github.io/prework-study-guide/
+
 ## Description
 
 Welcome to the Prework Study Guide! This guide is designed to support boot camp students during their Prework phase, offering comprehensive notes on HTML, CSS, Git, and JavaScript. Whether you're new to coding or looking to reinforce your foundational skills, this guide is your go-to resource.
